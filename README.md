@@ -1,5 +1,15 @@
 # 💫 About Me:
-<h1>Welcome to Skytup! 🚀</h1><br>
+<h1>Welcome to Skytup! 🚀</h1><be>
+# 👨‍💻 Akash Vishwakarma 
+
+**🚀 Developer | Programmer | Tech Enthusiast**
+
+Hi there! I'm **Akash Vishwakarma**, a passionate programmer and a dedicated developer who loves to solve problems, create meaningful projects, and share knowledge with the tech community. I believe in building responsive, scalable, and innovative solutions that make an impact.
+
+🌐 Visit my official website: [https://www.skytup.com](https://www.skytup.com)  
+
+---
+
 
 <b>🌟 What We Do<b><br>🔧 Currently Working On our Website.<br>🤝 Looking to Collaborate On: We're always open to new partnerships and collaborations, particularly in areas like software development and web development.<br>🙏 Looking for Help With: If you have expertise in backend development, we'd love to hear from you!<br>🌱 Currently Learning: Our team is continuously expanding our knowledge in the field of technology.<br>💬 Let's Connect<br>Ask Me About: Feel free to reach out if you have any questions about Coding and Programming.?<br>💼 Our Repositories<br>Explore our repositories to find a mix of open-source projects, tools, and resources. We're committed to contributing to the community and sharing our work with the world.<br><br>🚀 Join Us<br>Interested in working with us or learning more about our projects? Get in touch! We're always looking for talented individuals and teams to join our mission.<br><br>
 
