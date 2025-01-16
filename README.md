@@ -1,6 +1,5 @@
 # 💫 About Me:
-<h1>Welcome to Skytup! 🚀</h1><be>
-# 👨‍💻 Akash Vishwakarma 
+<h1>Welcome to Skytup! 🚀</h1>
 
 **🚀 Developer | Programmer | Tech Enthusiast**
 
