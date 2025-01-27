@@ -24,7 +24,8 @@ Hi there! I'm **Akash Vishwakarma**, a passionate programmer and a dedicated dev
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skytup&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=skytup&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=skytup&theme=gotham&hide_border=true"/>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/skythecoder) 
