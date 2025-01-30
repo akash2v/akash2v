@@ -1,5 +1,4 @@
 # 💫 About Me:
-<h1>Welcome to Skytup! 🚀</h1>
 
 **🚀 Developer | Programmer | Tech Enthusiast**
 
@@ -25,7 +24,7 @@ Hi there! I'm **Akash Vishwakarma**, a passionate programmer and a dedicated dev
 
 ---
 
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=skytup&theme=gotham&hide_border=true"/>
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=akash2v&theme=gotham&hide_border=true"/>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/skythecoder) 
