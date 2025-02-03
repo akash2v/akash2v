@@ -16,7 +16,7 @@ Hi there! I'm **Akash Vishwakarma**, a passionate programmer and a dedicated dev
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akash2v&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=skytup&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skytup&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akash2v&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
