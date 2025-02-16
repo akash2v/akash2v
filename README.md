@@ -9,9 +9,9 @@ Hi there! I'm **Akash Vishwakarma**, a passionate programmer and a dedicated dev
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer_akash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash222) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/skythecoder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@skytup) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer_akash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash222) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/skythecoder) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dev_sky) 
 
-
+![](https://komarev.com/ghpvc/?username=akash2v)
 <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=akash2v&theme=gotham&hide_border=true"/>
 
   ## 💰 You can help me by Donating
